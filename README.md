@@ -63,5 +63,3 @@ notebooks/
 * **V – Value**: **valor gasto** no período (ex.: `total_spent`). Maior gasto ⇒ **score maior**.
 
 A junção (**RFV**) permite **priorizar ações** (retenção, upsell, reativação). Em bases pequenas, calcular **scores por rank/percentis** evita concentração de clientes em poucos valores e produz uma **segmentação mais equilibrada**.
-
-Se quiser, eu já formato isso num `README.md` prontinho pra colar no repo.
