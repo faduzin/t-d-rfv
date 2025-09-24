@@ -43,7 +43,7 @@ notebooks/
    * **Hibernating**
    * **Lost**
 
-## Resultados (preencha após executar o notebook)
+## Resultados
 
 **Médias e medianas**
 
